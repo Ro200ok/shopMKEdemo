@@ -1,4 +1,10 @@
-# shopMKEdemo
+# Приложение заказа доставки товаров Магазина Купцов Елисеевых
+##
+<div>&nbsp</div>
+
+Используемые пакеты: state manager — GetX, graphql, yandexmapkit, yandex_geocoder, yandex appmetrica, hive,  webview_flutter, rxdart, unit-тесты — mocktail.  
+Оплата реализована с помощью библиотеки <a href="https://woocommerce.com/">woocommerce</a>.
+
 <div>
   <img src="https://github.com/Ro200ok/shopMKEdemo/blob/master/assets/1.jpg" width="300"/>&nbsp
   <img src="https://github.com/Ro200ok/shopMKEdemo/blob/master/assets/2.jpg" width="300"/>&nbsp
